@@ -1,0 +1,5 @@
+NAME="FlexCloud IOTCore"
+VERSION=1.0
+ID=iotcore
+VERSION_CODENAME=deagle
+PRETTY_NAME="FlexCloud IOTCore 1.0 Alpha (deagle)"
