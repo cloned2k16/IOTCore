@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2017.02-git-g869bc33-dirty Configuration
+# Buildroot 2017.02-git-gbf3086e Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_HOST_GCC_AT_LEAST_4_5=y
@@ -343,6 +343,7 @@ BR2_LINUX_KERNEL_GZIP=y
 # BR2_LINUX_KERNEL_LZO is not set
 # BR2_LINUX_KERNEL_XZ is not set
 # BR2_LINUX_KERNEL_DTS_SUPPORT is not set
+# BR2_LINUX_KERNEL_INSTALL_TARGET is not set
 
 #
 # Linux Kernel Extensions
@@ -2008,7 +2009,17 @@ BR2_TARGET_ROOTFS_CPIO_GZIP=y
 # BR2_TARGET_ROOTFS_CPIO_UIMAGE is not set
 # BR2_TARGET_ROOTFS_CRAMFS is not set
 # BR2_TARGET_ROOTFS_EXT2 is not set
-BR2_TARGET_ROOTFS_INITRAMFS=y
+# BR2_TARGET_ROOTFS_EXT2_2r0 is not set
+# BR2_TARGET_ROOTFS_EXT2_2r1 is not set
+# BR2_TARGET_ROOTFS_EXT2_3 is not set
+# BR2_TARGET_ROOTFS_EXT2_4 is not set
+# BR2_TARGET_ROOTFS_EXT2_NONE is not set
+# BR2_TARGET_ROOTFS_EXT2_GZIP is not set
+# BR2_TARGET_ROOTFS_EXT2_BZIP2 is not set
+# BR2_TARGET_ROOTFS_EXT2_LZMA is not set
+# BR2_TARGET_ROOTFS_EXT2_LZO is not set
+# BR2_TARGET_ROOTFS_EXT2_XZ is not set
+# BR2_TARGET_ROOTFS_INITRAMFS is not set
 # BR2_TARGET_ROOTFS_ISO9660 is not set
 # BR2_TARGET_ROOTFS_JFFS2 is not set
 # BR2_TARGET_ROOTFS_ROMFS is not set
