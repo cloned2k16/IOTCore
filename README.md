@@ -1,8 +1,8 @@
-# IOTCore V0.8.0
+# IOTCore V0.8.2
 Flex Cloud IOTCore OS - Tiny, Secure Linux compatible OS for Cloud &amp; IOT App &amp; Service hosting
 
 
-Flex Cloud IOTCore V0.8.0
+Flex Cloud IOTCore V0.8.2
 
 
 Current builds:
@@ -18,7 +18,7 @@ armhf-IOTCore-sysfs
 
 Output samples for:
 
-V0.8.0 - X86_64
+V0.8.2 - X86_64
 
 sysfs.tgz : Root file system tarball
 
